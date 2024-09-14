@@ -1,0 +1,11 @@
+{
+  "name": "micro-frontends-with-modern.js-and-rspack",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "pnpm --filter shell-app --filter mfe1 --filter mfe2 --parallel start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
